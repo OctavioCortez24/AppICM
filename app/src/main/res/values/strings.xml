@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="female">Mujer</string>
+    <string name="male">Hombre</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="title_bajo_peso">Peso Bajo</string>
+    <string name="description_bajo_peso">Usted tiene un peso bajo</string>
+    <string name="title_peso_normal">Peso Normal</string>
+    <string name="description_peso_normal">Usted se encuentra en el peso correcto</string>
+    <string name="title_sobrepeso">Sobre Peso</string>
+    <string name="description_sobrepeso">Usted tiene sobre peso</string>
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Usted tiene obesidad</string>
+    <string name="error">Ha ocurrido un error en: </string>
+    <string name="result">Esto es un resultado</string>
+    <string name="recalculate">Recalculando</string>
+</resources>
